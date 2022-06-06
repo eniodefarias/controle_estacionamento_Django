@@ -124,23 +124,23 @@ COLLATE=utf8_general_ci;
 
 ## Fontes de pesquisa:
 
-https://dev.to/foadlind/dockerizing-a-django-mysql-project-g4m
-https://medium.com/@minghz42/docker-setup-for-django-on-mysql-1f063c9d16a0
-https://skonik.me/setup-django-with-mysql-using/
-https://roytuts.com/docker-compose-dockerizing-django-mysql-app/
-https://docs.docker.com/samples/django/
+ - https://dev.to/foadlind/dockerizing-a-django-mysql-project-g4m
+ - https://medium.com/@minghz42/docker-setup-for-django-on-mysql-1f063c9d16a0
+ - https://skonik.me/setup-django-with-mysql-using/
+ - https://roytuts.com/docker-compose-dockerizing-django-mysql-app/
+ - https://docs.docker.com/samples/django/
 
-https://www.youtube.com/watch?v=qa7SWCozY_A&ab_channel=Maransatto
-https://tech-pt.netlify.app/articles/pt519912/index.html
-https://cursos.alura.com.br/forum/topico-error-ao-executar-docker-compose-run-web-python-manage-py-makemigrations-105642
-https://groups.google.com/g/python-brasil/c/uKe2kvDOYZQ?pli=1
-https://www.digitalocean.com/community/tutorials/how-to-scale-and-secure-a-django-application-with-docker-nginx-and-let-s-encrypt-pt
-https://johnfercher.medium.com/mysql-docker-7ff6d50d6cf1
-https://pt.stackoverflow.com/questions/532461/como-fazer-o-docker-compose-exportar-a-porta-do-postgres-para-o-host
-https://fernandofreitasalves.com/criando-um-container-docker-para-um-projeto-django-existente/
+ - https://www.youtube.com/watch?v=qa7SWCozY_A&ab_channel=Maransatto
+ - https://tech-pt.netlify.app/articles/pt519912/index.html
+ - https://cursos.alura.com.br/forum/topico-error-ao-executar-docker-compose-run-web-python-manage-py-makemigrations-105642
+ - https://groups.google.com/g/python-brasil/c/uKe2kvDOYZQ?pli=1
+ - https://www.digitalocean.com/community/tutorials/how-to-scale-and-secure-a-django-application-with-docker-nginx-and-let-s-encrypt-pt
+ - https://johnfercher.medium.com/mysql-docker-7ff6d50d6cf1
+ - https://pt.stackoverflow.com/questions/532461/como-fazer-o-docker-compose-exportar-a-porta-do-postgres-para-o-host
+ - https://fernandofreitasalves.com/criando-um-container-docker-para-um-projeto-django-existente/
 
-https://stack.desenvolvedor.expert/appendix/docker/comandos.html
-https://www.certificacaolinux.com.br/comandos-docker/
-https://medium.com/xp-inc/principais-comandos-docker-f9b02e6944cd
+ - https://stack.desenvolvedor.expert/appendix/docker/comandos.html
+ - https://www.certificacaolinux.com.br/comandos-docker/
+ - https://medium.com/xp-inc/principais-comandos-docker-f9b02e6944cd
 
-https://www.codegrepper.com/code-examples/sql/dbeaver+mysql+set+primary+key
+ - https://www.codegrepper.com/code-examples/sql/dbeaver+mysql+set+primary+key
