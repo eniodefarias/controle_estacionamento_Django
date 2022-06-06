@@ -20,6 +20,8 @@ sudo docker-compose run web django-admin startproject web_django .
 sudo chown -R $USER:$USER web_django
 ```
 
+
+
 ### inicialização dos conteiners
 
 para depois que estiver instalado, é só iniciar que sobe tudo
