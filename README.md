@@ -2,6 +2,12 @@
 projeto de controle de estacionamento simples com endpoints em python e django
 
 
+
+
+
+
+
+
 ## Dados do docker
 
 iniciar docker:
